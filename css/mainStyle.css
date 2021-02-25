@@ -35,7 +35,6 @@ body
   margin-bottom: 10px;
   border: 1px solid #e3e3e3;
   padding: 10px;
-  display: inline-block;
 }
 #smallIcon
 {
@@ -57,11 +56,6 @@ body
 
 #appsProvider
 {
-  width: 100%;
-  overflow-x:scroll;
-  white-space: nowrap;
-  float:left;
-  position: relative;
   padding-left: 20px;
   padding-right: 20px;
 }
